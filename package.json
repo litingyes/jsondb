@@ -1,0 +1,23 @@
+{
+  "name": "@liting-yes/jsondb",
+  "version": "1.0.0",
+  "description": "A simple and lightweight JSON file database",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "db",
+    "database",
+    "store",
+    "storage",
+    "local"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liting-yes/jsondb.git"
+  },
+  "author": "liting <luz.liting@gmail.com> (https://github.com/liting-yes)",
+  "license": "MIT"
+}
