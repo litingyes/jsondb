@@ -12,12 +12,14 @@
     "database",
     "store",
     "storage",
-    "local"
+    "local",
+    "CURD"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/liting-yes/jsondb.git"
   },
+  "homepage": "https://github.com/liting-yes/jsondb#readme",
   "author": "liting <luz.liting@gmail.com> (https://github.com/liting-yes)",
   "license": "MIT",
   "devDependencies": {
